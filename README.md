@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kp04k
 - 👀 I’m interested in ...Dotnet fullstack development
-- 🌱 I’m currently learning ...new tech like blazor, microservices, etc..
+- 🌱 I’m currently learning ...new tech like Angular, microservices, etc..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... prasanna04k@gmail.com
 
